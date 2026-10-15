@@ -1,19 +1,19 @@
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Viestra&color=0e75b6&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Viestraa&color=0e75b6&style=for-the-badge)
 
 <br>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Viestra&theme=tokyonight&show_icons=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Viestra&theme=tokyonight&layout=compact&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Viestraa&theme=tokyonight&show_icons=true&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Viestraa&theme=tokyonight&layout=compact&hide_border=true)
 
 <br>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Viestra&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Viestraa&theme=tokyonight&hide_border=true)
 
 <br>
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=Viestra&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true)
+![Trophy](https://github-profile-trophy.vercel.app/?username=Viestraa&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true)
 
 <br>
 
